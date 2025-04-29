@@ -48,10 +48,17 @@ WorklyAI streamlines the job application process through a simple workflow:
 
 - **Apply Automatically** — Schedule or automate your applications on your terms
 
+## 🎥 Demo & Presentation
+
+- 📽 Pitch Deck: View our Presentation <a href="https://github.com/achalbajpai/workly/issues">Here</a>
+
+- 🧠 Live Demo: Watch the Demo <a href="https://youtu.be/BkCEa4DRsmA">here</a>
+
+
 ## 📝 License
 
 This project is licensed under the MIT License.
 
 ---
 
-<p align="center">Made with ❤️ for job seekers everywhere</p>
+<p align="center">Made with ❤️ for job seekers everywhere, by team ILLmatics</p>
