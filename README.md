@@ -50,7 +50,7 @@ WorklyAI streamlines the job application process through a simple workflow:
 
 ## 🎥 Demo & Presentation
 
-- 📽 Pitch Deck: View our Presentation <a href="https://github.com/achalbajpai/workly/issues">Here</a>
+- 📽 Pitch Deck: View our Presentation <a href="https://docs.google.com/presentation/d/1d90wzoVTdEdjcmzfOovbgM4sdJ3Rm5ff/edit?usp=sharing&ouid=101931434682051416454&rtpof=true&sd=true">here</a>
 
 - 🧠 Live Demo: Watch the Demo <a href="https://youtu.be/BkCEa4DRsmA">here</a>
 
