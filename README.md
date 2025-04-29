@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Project Link: [https://github.com/achalbajpai/workly](https://github.com/achalbajpai/workly)
+Project Link: [https://github.com/Thunderrr2022/Workly-ai](https://github.com/Thunderrr2022/Workly-ai)
 
 ---
 
