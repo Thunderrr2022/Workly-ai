@@ -25,10 +25,15 @@ WorklyAI is your smart job search assistant — built to transform how candidate
 ## ✨ Key Features
 
 -  **Resume Processing** - Extract structured data from PDF resumes for optimized job matching
+-  
 -  **Skills & Role Extraction** - AI-powered identification of candidate skills and suitable roles
+-  
 -  **Job Matching** - Automatically find and prioritize jobs that match your skills and experience
+-  
 -  **Personalized Applications** - Generate customized cover letters for each position
+-  
 -  **Automated Scheduling** - Set up recurring job searches and applications on your preferred schedule
+-  
 -  **All-in-One Dashboard** - Manage your entire job search process from a single interface!
 
 ## ⚙️ How It Works
