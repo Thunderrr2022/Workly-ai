@@ -15,6 +15,13 @@
 
 WorklyAI is a comprehensive AI Agent designed to revolutionize the job application process. It automates job discovery, skills matching, and personalized outreach, saving candidates hours of repetitive work while maximizing their chances of success.
 
+## 🔄 Workflow
+
+<div align="center">
+  <img src="docs/workflow-diagram.jpeg" alt="WorklyAI Workflow" width="100%" />
+  <p align="center"><i>WorklyAI's Automated Job Application Workflow</i></p>
+</div>
+
 ## ✨ Features
 
 -  **Resume Processing** - Extract structured data from PDF resumes for optimized job matching
