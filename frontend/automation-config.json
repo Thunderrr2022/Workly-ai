@@ -1,0 +1,26 @@
+{
+  "enabled": false,
+  "keywords": [
+    "software developer",
+    "react",
+    "web development"
+  ],
+  "sites": [
+    "https://linkedin.com/jobs",
+    "https://indeed.com"
+  ],
+  "maxResults": 5,
+  "emailSettings": {
+    "companyName": "Your Company",
+    "senderName": "Your Name",
+    "emailLength": "Medium"
+  },
+  "schedule": {
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "time": "09:00"
+  }
+}

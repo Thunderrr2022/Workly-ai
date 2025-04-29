@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="55" fill="#F0F4FF"/>
+  
+  <!-- Main Logo Icon - Stylized W with automation elements -->
+  <path d="M34 40L46 75L60 40L74 75L86 40" stroke="#3B82F6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Automation Elements - Circuit-like lines -->
+  <circle cx="60" cy="30" r="6" fill="#3B82F6"/>
+  <path d="M60 36V43" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+  
+  <circle cx="35" cy="40" r="5" fill="#3B82F6"/>
+  <circle cx="85" cy="40" r="5" fill="#3B82F6"/>
+  
+  <!-- AI Elements - Code-like patterns -->
+  <rect x="45" y="80" width="30" height="6" rx="3" fill="#3B82F6"/>
+  <rect x="40" y="90" width="40" height="6" rx="3" fill="#3B82F6"/>
+  
+  <!-- Circular elements representing automation/processing -->
+  <circle cx="28" cy="65" r="4" fill="#3B82F6" fill-opacity="0.7"/>
+  <circle cx="92" cy="65" r="4" fill="#3B82F6" fill-opacity="0.7"/>
+  
+  <!-- Connecting Lines -->
+  <path d="M32 65H43" stroke="#3B82F6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M77 65H88" stroke="#3B82F6" stroke-width="2" stroke-linecap="round"/>
+</svg> 
